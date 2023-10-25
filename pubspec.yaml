@@ -4,10 +4,10 @@ version: 1.0.0
 repository: https://github.com/Akhil-James/dart_amqp_client
 
 topics: 
-  - dart_amqp
-  - AMQP
+  - dart
+  - amqp
   - client
-  - RabbitMQ
+  - rabbitmq
 
 environment:
   sdk: ^3.1.4
