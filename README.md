@@ -21,7 +21,6 @@ Simple Integration: Easily integrate the package into your Dart applications wit
 
 To use this package, add `dart_amqp_client` as a dependency in your `pubspec.yaml` file:
 
-```yaml
 dependencies:
   dart_amqp_client: ^1.0.0
 
@@ -29,7 +28,6 @@ Then, run pub get to fetch and install the package.
 
 # Quick start
 
-Listening to a queue:
 
 ```dart
 import 'package:dart_amqp_client/dart_amqp_client.dart';
@@ -84,7 +82,6 @@ void main() {
     print('An error occurred: $error');
   });
 }
-
 ```
 # Examples
 
