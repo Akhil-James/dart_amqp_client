@@ -1,6 +1,6 @@
 # Dart AMQP Client
 
-Dart AMQP Client is a Dart package that simplifies the handling of AMQP (Advanced Message Queuing Protocol) connections, channels, and associated callbacks. It provides an easy-to-use interface for establishing and managing connections to AMQP servers, enabling you to focus on your application's logic without dealing with low-level AMQP details.
+Dart AMQP Client is a Dart package that simplifies the handling of AMQP (Advanced Message Queuing Protocol) connections, channels, and associated callbacks.
 
 # Features
 Connection Management: Automatically handles AMQP connection establishment and reconnection.
@@ -22,7 +22,7 @@ Simple Integration: Easily integrate the package into your Dart applications wit
 To use this package, add `dart_amqp_client` as a dependency in your `pubspec.yaml` file:
 
 dependencies:
-  dart_amqp_client: ^1.0.0
+  dart_amqp_client: ^1.0.1
 
 Then, run pub get to fetch and install the package.
 
